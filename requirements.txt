@@ -1,0 +1,8 @@
+gevent==1.0
+greenlet==0.4.2
+grequests==0.2.0
+jenkinsapi==0.2.18
+numpy==1.8.0
+pytz==2013.9
+requests==2.2.1
+wsgiref==0.1.2

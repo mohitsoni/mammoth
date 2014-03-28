@@ -1,0 +1,1 @@
+{"cmd":"echo hi; sleep 10; echo bye;", "container":null, "cpus":1, "env":{}, "executor":"", "instances":1, "mem":256, "ports":[0], "uris":[], "id":"%s", "constraints":[]}
